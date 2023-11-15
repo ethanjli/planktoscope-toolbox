@@ -16,6 +16,16 @@ If you use toolbx:
     toolbox create -i ghcr.io/ethanjli/planktoscope-toolbox -c planktoscope
     toolbox enter toolbox
 
+## Develop the PlanktoScope documentation
+
+In your instance of `planktoscope-toolbox`, navigate to a local copy of the PlanktoScope Git repository. Within the repository, navigate to the `documentation` directory. Then run the following command to install the various dependencies needed to develop the PlanktoScope documentation:
+
+```
+poetry install --no-root --with docs
+```
+
+Then follow the remaining usage instructions from the PlanktoScope Git repository's `documentation/README.md` file.
+
 ## Verification
 
 These images are signed with sisgstore's [cosign](https://docs.sigstore.dev/cosign/overview/). You can verify the signature by downloading the `cosign.pub` key from this repo and running the following command:
