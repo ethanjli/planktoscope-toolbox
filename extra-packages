@@ -1,3 +1,4 @@
+# Developer experience
 age
 atuin
 btop
@@ -10,28 +11,32 @@ direnv
 eza
 ffmpeg
 fzf
-gcc
 github-cli
-jpeg-dev
 just
 make
-musl-dev
 ncdu
 ncurses
 neofetch
 neovim
 npm
-pipx
 plocate
-poetry
-py3-pip
-python3
-python3-dev
 ripgrep
 speedtest-cli
 starship
 vimdiff
 wl-clipboard
 zellij
-zlib-dev
 zstd
+
+# Python
+python3
+py3-pip
+pipx
+poetry
+
+# PlanktoScope docs
+gcc
+jpeg-dev
+musl-dev
+zlib-dev
+python3-dev
