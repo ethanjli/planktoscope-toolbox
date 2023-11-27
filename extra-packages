@@ -28,6 +28,9 @@ wl-clipboard
 zellij
 zstd
 
+# Go
+go
+
 # Python
 python3
 py3-pip
