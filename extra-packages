@@ -1,32 +1,17 @@
 # Developer experience
-age
 atuin
-btop
-bat
 chezmoi
 clipboard
 cosign
-dbus-x11
 direnv
-eza
-ffmpeg
-fzf
 github-cli
 just
-make
-ncdu
 ncurses
-neofetch
 neovim
-npm
-plocate
-ripgrep
-speedtest-cli
-starship
-vimdiff
+rclone
 wl-clipboard
-zellij
 zstd
+zsh
 
 # Go
 go
@@ -54,3 +39,10 @@ jpeg-dev
 musl-dev
 zlib-dev
 python3-dev
+
+# Forklift
+docker
+make
+
+# Node-RED
+npm
