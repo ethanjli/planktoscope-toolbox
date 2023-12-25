@@ -4,6 +4,7 @@ chezmoi
 clipboard
 cosign
 direnv
+gcompat
 github-cli
 just
 ncurses
