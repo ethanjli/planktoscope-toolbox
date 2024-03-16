@@ -16,6 +16,15 @@ If you use toolbx:
     toolbox create -i ghcr.io/ethanjli/planktoscope-toolbox -c planktoscope
     toolbox enter toolbox
 
+### Set up developer tools
+
+In your instance of `planktoscope-toolbox`, run:
+```
+python3 -m pip install --user pipx
+python3 -m pipx ensurepath
+pipx install poetry
+```
+
 ### Develop the PlanktoScope documentation
 
 In your instance of `planktoscope-toolbox`, navigate to a local copy of the PlanktoScope Git repository. Within the repository, navigate to the `documentation` directory. Then run the following command to install the various dependencies needed to develop the PlanktoScope documentation:

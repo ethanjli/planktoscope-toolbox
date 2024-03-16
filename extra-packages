@@ -1,38 +1,20 @@
 # Developer experience
-chezmoi
+# chezmoi
 neovim
-rclone
 zsh
-
-# Go
-go
+git
 
 # Python
 python3
-py3-pip
-poetry
+python3-pip
+python3-venv
+# These are only available in Debian 12:
+# pipx
+# poetry
 
 # Javascript
 npm
-yarn
+yarnpkg
 
-# Compilation of Python 3.9 with pyenv
-patch
-bzip2-dev
-ncurses-dev
-libffi-dev
-readline-dev
-openssl-dev
-sqlite-dev
-tk-dev
-xz-dev
-
-# PlanktoScope docs
-gcc
-#jpeg-dev
-zlib-dev
-python3-dev
-
-# Forklift
-docker
-make
+# PlanktoScope backend
+libopenjp2-7
