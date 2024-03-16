@@ -22,7 +22,7 @@ In your instance of `planktoscope-toolbox`, run:
 ```
 python3 -m pip install --user pipx
 python3 -m pipx ensurepath
-pipx install poetry
+pipx install poetry==1.7.1
 ```
 
 ### Develop the PlanktoScope documentation
