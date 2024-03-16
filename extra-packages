@@ -1,15 +1,11 @@
 # Developer experience
 chezmoi
-clipboard
 cosign
 direnv
-gcompat
-github-cli
 just
 ncurses
 neovim
 rclone
-wl-clipboard
 zstd
 zsh
 
@@ -19,7 +15,6 @@ go
 # Python
 python3
 py3-pip
-pipx
 poetry
 
 # Javascript
@@ -39,8 +34,7 @@ xz-dev
 
 # PlanktoScope docs
 gcc
-jpeg-dev
-musl-dev
+#jpeg-dev
 zlib-dev
 python3-dev
 
