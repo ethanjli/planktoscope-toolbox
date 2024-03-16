@@ -1,12 +1,7 @@
 # Developer experience
 chezmoi
-cosign
-direnv
-just
-ncurses
 neovim
 rclone
-zstd
 zsh
 
 # Go
