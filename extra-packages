@@ -17,4 +17,5 @@ npm
 yarnpkg
 
 # PlanktoScope backend
+libcap-dev
 libopenjp2-7
