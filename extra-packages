@@ -19,3 +19,6 @@ yarnpkg
 # PlanktoScope backend
 libcap-dev
 libopenjp2-7
+
+# PlanktoScope docs site
+libjpeg-dev
