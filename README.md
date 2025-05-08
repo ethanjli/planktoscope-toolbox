@@ -20,9 +20,8 @@ If you use toolbx:
 
 In your instance of `planktoscope-toolbox`, run:
 ```
-python3 -m pip install --user pipx
-python3 -m pipx ensurepath
-pipx install poetry==1.7.1
+pipx ensurepath
+pipx install poetry==2.1.2
 ```
 
 ### Develop the PlanktoScope documentation

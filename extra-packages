@@ -8,8 +8,8 @@ git
 python3
 python3-pip
 python3-venv
-# These are only available in Debian 12:
-# pipx
+pipx
+# Unavailable at the necessary version:
 # poetry
 
 # Javascript
